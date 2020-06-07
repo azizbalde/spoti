@@ -1,0 +1,15 @@
+{
+    "Welcome to React": "Welcome to React and react-i18next",
+    "top": "Top of the week",
+    "all":"Alll tracks",
+    "pl":"Playlists",
+    "search":"Search",
+    "see":"SEE ALL",
+    "get":"GET",
+    "browse":"Browse",
+    "choose":"Choose the list of genres you like",
+    "select":"Our musical selection that we have chosen for you:",
+    "logout":"Logout",
+    "toogle":"Toogle theme",
+    "next":"Next"
+}
